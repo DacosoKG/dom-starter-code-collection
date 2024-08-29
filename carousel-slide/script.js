@@ -1,63 +1,63 @@
 const carouselData = [
   {
     name: "high-back bench",
-    image: "https://course-api.com/images/store/product-1.jpeg",
     id: "rec43w3ipXvP28vog",
+    image: "/images/product-1.jpeg",
   },
   {
     name: "albany table",
-    image: "https://course-api.com/images/store/product-2.jpeg",
     id: "rec4f2RIftFCb7aHh",
+    image: "/images/product-2.jpeg",
   },
   {
     name: "accent chair",
-    image: "https://course-api.com/images/store/product-3.jpeg",
     id: "rec8kkCmSiMkbkiko",
+    image: "/images/product-3.jpeg",
   },
   {
     name: "wooden table",
-    image: "https://course-api.com/images/store/product-4.jpeg",
     id: "recBohCqQsot4Q4II",
+    image: "/images/product-4.jpeg",
   },
   {
     name: "dining table",
-    image: "https://course-api.com/images/store/product-5.jpeg",
     id: "recDG1JRZnbpRHpoy",
+    image: "/images/product-5.jpeg",
   },
   {
     name: "sofa set",
-    image: "https://course-api.com/images/store/product-6.jpeg",
     id: "recNWGyP7kjFhSqw3",
+    image: "/images/product-6.jpeg",
   },
   {
     name: "modern bookshelf",
-    image: "https://course-api.com/images/store/product-7.jpeg",
     id: "recZEougL5bbY4AEx",
+    image: "/images/product-7.jpeg",
   },
   {
     name: "emperor bed",
-    image: "https://course-api.com/images/store/product-8.jpeg",
     id: "recjMK1jgTb2ld7sv",
+    image: "/images/product-8.jpeg",
   },
   {
     name: "utopia sofa",
-    image: "https://course-api.com/images/store/product-9.jpeg",
     id: "recmg2a1ctaEJNZhu",
+    image: "/images/product-9.jpeg",
   },
   {
     name: "entertainment center",
-    image: "https://course-api.com/images/store/product-10.jpeg",
     id: "recvKMNR3YFw0bEt3",
+    image: "/images/product-10.jpeg",
   },
   {
     name: "albany sectional",
-    image: "https://course-api.com/images/store/product-11.jpeg",
     id: "recxaXFy5IW539sgM",
+    image: "/images/product-11.jpeg",
   },
   {
     name: "leather sofa",
-    image: "https://course-api.com/images/store/product-12.jpeg",
     id: "recyqtRglGNGtO4Q5",
+    image: "/images/product-12.jpeg",
   },
 ];
 
