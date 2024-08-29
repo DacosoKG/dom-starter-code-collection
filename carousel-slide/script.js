@@ -60,3 +60,9 @@ const carouselData = [
     id: "recyqtRglGNGtO4Q5",
   },
 ];
+
+const slides = document.getElementsByClassName("mySlides");
+const dots = document.getElementsByClassName("dot");
+
+slides[0].style.display = "block";
+dots[0].className += " active";
