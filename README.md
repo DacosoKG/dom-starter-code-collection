@@ -1,1 +1,1 @@
-# restaurant-menu-dom-starter-2
+# DOM Projects starter code collection
