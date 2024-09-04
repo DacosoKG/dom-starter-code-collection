@@ -1,7 +1,7 @@
 const cityData = [
   {
     city: "Shreveport",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-1.jpg",
     about: "Aperiam adipisci soluta.",
     history:
       "Culpa accusantium ipsam eaque. Natus officiis exercitationem dolorem nemo ipsam inventore laboriosam. Quae sapiente nostrum labore necessitatibus cupiditate iusto repellat. Distinctio deleniti iusto molestias voluptas. Ipsum provident corporis dolor. Harum sint inventore dolor minima veniam.\nQuidem a quisquam enim magnam repellat sed soluta voluptates reprehenderit. Ut hic in ut nemo molestiae necessitatibus voluptas minus officiis. Porro laboriosam libero commodi est quasi odio aspernatur laudantium porro. Reprehenderit dolores fugiat hic temporibus aliquam beatae. Magnam nisi iusto animi neque eum commodi assumenda. Accusantium consectetur quidem.\nIncidunt natus possimus cumque consequuntur. Voluptatum corrupti magnam facilis laudantium distinctio modi maxime. Odit officia eos odio. Dolores repellendus saepe doloribus sequi.",
@@ -13,7 +13,7 @@ const cityData = [
   },
   {
     city: "St. Louis Park",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-2.jpg",
     about: "Ad cumque provident iste beatae dolorem.",
     history:
       "Praesentium expedita pariatur assumenda distinctio repudiandae exercitationem. Tempore consequuntur consequatur natus. Saepe ex optio repellat perferendis magnam. Iure esse laboriosam dolore nam provident perferendis.\nDebitis nam minima atque. Veritatis necessitatibus repellendus nisi sunt sint quasi occaecati labore in. Neque laboriosam necessitatibus incidunt asperiores. Facilis dolorum a quam. Omnis sit voluptatibus eum officiis enim rerum distinctio. Quaerat laudantium illo ratione at repellendus porro aspernatur.\nInventore neque distinctio tenetur natus modi. Repellendus eligendi corporis aliquam aperiam amet eum. A ipsam minima cum culpa nostrum vitae quibusdam alias. Maxime quisquam architecto similique. Id sapiente amet magni.",
@@ -25,7 +25,7 @@ const cityData = [
   },
   {
     city: "Rowlett",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-3.jpg",
     about: "Maxime quas totam aperiam occaecati.",
     history:
       "Architecto dolorum iusto maiores quo corporis distinctio facere neque cumque. Doloribus neque officia accusantium. Dolorem dolor laborum nihil quas iste facilis. Eos perferendis enim repellat neque ducimus dolore. Maxime esse beatae aliquam laboriosam nemo possimus esse totam ad.\nFugiat perferendis sint maxime consequatur aperiam itaque iure. Odit ab maxime labore magni. Ex non maxime odit nesciunt. Perferendis rerum dicta fugit quaerat. Vero molestias quisquam nulla dolor minus eius odit blanditiis. Nesciunt nihil occaecati non quibusdam sed minima tenetur.\nCorporis quo incidunt quos sint. Officiis itaque modi laboriosam. Non pariatur provident illum adipisci pariatur velit ipsum.",
@@ -37,7 +37,7 @@ const cityData = [
   },
   {
     city: "Casper",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-4.jpg",
     about: "Perferendis incidunt at.",
     history:
       "Optio perspiciatis expedita iste excepturi. Adipisci officia adipisci explicabo consequatur. Est aspernatur quos doloribus impedit doloribus. Harum occaecati expedita molestiae provident placeat inventore officia dolorum. Voluptates sit hic dolore natus. Tempora error molestias maxime est dicta architecto minima sit.\nNostrum aliquid adipisci sed autem saepe. Deleniti quas error odio aliquam sapiente occaecati. Nam eum distinctio sapiente.\nRepellat distinctio consequatur. Earum assumenda laudantium ipsum. Repellat maxime dolorum distinctio hic tempora laboriosam reprehenderit commodi.",
@@ -49,7 +49,7 @@ const cityData = [
   },
   {
     city: "Gresham",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-5.jpg",
     about:
       "Quidem exercitationem nostrum eveniet quas libero possimus perspiciatis voluptatem repellendus.",
     history:
@@ -62,7 +62,7 @@ const cityData = [
   },
   {
     city: "Longmont",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-6.jpg",
     about: "Error modi dolorum.",
     history:
       "Perferendis beatae tempora corporis distinctio nostrum dolor nihil aliquid ea. Eligendi natus ea illum esse. Possimus dolorum maxime eligendi ex unde itaque. Quasi mollitia ipsum incidunt occaecati.\nNesciunt sed earum reiciendis doloribus veritatis tempora amet. Pariatur quibusdam facere voluptates enim quos reprehenderit ratione dolorem. Temporibus modi dolores.\nAnimi totam praesentium error accusamus occaecati adipisci eos consequatur. Aspernatur porro eos corporis totam iusto autem. At itaque hic quos beatae dolorum sapiente ipsum aliquid atque. Hic impedit ipsam ratione omnis voluptates commodi.",
@@ -74,7 +74,7 @@ const cityData = [
   },
   {
     city: "Meriden",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-7.jpg",
     about: "Blanditiis nemo illo.",
     history:
       "Aliquam occaecati est vel voluptatem ipsa quisquam. Inventore sapiente corrupti tenetur iusto. Natus laboriosam ratione dolore aliquam delectus maiores debitis consectetur.\nVoluptatibus at voluptatem laudantium hic quidem nulla cupiditate quasi. Sapiente necessitatibus nisi. Possimus deserunt magnam iste excepturi incidunt repudiandae explicabo labore facilis. Aut quo repellat repellendus officiis sit dicta. Recusandae blanditiis modi repudiandae molestiae. Ad iure recusandae est blanditiis quisquam hic quaerat quia molestias.\nQuia officiis saepe cumque at accusamus delectus aperiam. Tenetur molestias accusamus magni suscipit libero veniam accusamus ad. Eligendi corporis facilis numquam optio sapiente dicta.",
@@ -86,7 +86,7 @@ const cityData = [
   },
   {
     city: "Twin Falls",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-8.jpg",
     about: "Sit similique dignissimos occaecati iste voluptatum facilis.",
     history:
       "Sint totam odit. Eaque rem vero corporis exercitationem nostrum harum culpa. Fuga quos reiciendis sint distinctio temporibus.\nTotam facere reprehenderit vel iste labore. Saepe adipisci molestias sapiente tempora voluptas non repudiandae tempore. Voluptate dolores velit recusandae fuga nesciunt. Labore harum quasi velit dolorem culpa assumenda.\nAt perferendis tenetur repellendus sapiente nulla laborum. Aliquam et provident modi maiores. Magnam quam repellendus architecto ipsa assumenda. Cupiditate nisi non dolor qui non a. Veniam quae nesciunt aut nulla doloremque.",
@@ -98,7 +98,7 @@ const cityData = [
   },
   {
     city: "Palo Alto",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-9.jpg",
     about:
       "Voluptate eveniet quae maxime eveniet similique amet magnam nulla sed.",
     history:
@@ -111,7 +111,7 @@ const cityData = [
   },
   {
     city: "Hackensack",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-10.jpg",
     about:
       "Commodi occaecati dolore iste eligendi sunt sapiente eius amet sapiente.",
     history:
@@ -124,7 +124,7 @@ const cityData = [
   },
   {
     city: "Boise City",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-11.jpg",
     about:
       "Ipsa excepturi quaerat iure repellendus accusantium possimus deserunt minus culpa.",
     history:
@@ -137,7 +137,7 @@ const cityData = [
   },
   {
     city: "Pittsburg",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-12.jpg",
     about:
       "Suscipit laudantium veniam reprehenderit nesciunt expedita quisquam.",
     history:
@@ -150,7 +150,7 @@ const cityData = [
   },
   {
     city: "Tallahassee",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-13.jpg",
     about: "Voluptatibus sapiente quam animi illo voluptas.",
     history:
       "Vero laborum laudantium. Occaecati doloremque temporibus labore numquam ipsa perferendis sunt voluptate placeat. Sed aliquid dolorum nesciunt voluptates quibusdam labore impedit tenetur. Qui reprehenderit aperiam dolorem illo. Enim quia iure rem beatae provident incidunt. Sit quod iste ad harum nesciunt doloribus voluptatibus sapiente quisquam.\nHic in quibusdam aperiam. Ducimus aspernatur vel amet alias et hic accusantium velit. Unde illum deleniti accusantium cum officiis. Blanditiis quam sequi molestias dolore. Alias nihil recusandae dolorem nostrum ullam unde. Perspiciatis vero quidem reprehenderit deleniti nemo dolores aliquam.\nIpsa minima distinctio commodi omnis doloribus pariatur vitae sint ea. Nisi velit in iusto dolorum laborum harum optio. Vitae voluptatem nisi recusandae eum enim architecto soluta minima. Numquam veniam assumenda qui molestiae similique nisi provident. Amet mollitia distinctio. Voluptate porro ut aliquid atque laudantium itaque magnam nihil.",
@@ -162,7 +162,7 @@ const cityData = [
   },
   {
     city: "Weston",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-14.jpg",
     about:
       "Repudiandae voluptas mollitia rerum minima quas corporis expedita illo ea.",
     history:
@@ -175,7 +175,7 @@ const cityData = [
   },
   {
     city: "Waukesha",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-15.jpg",
     about: "Ducimus sint rerum officia.",
     history:
       "Perferendis ab aut molestias nesciunt facilis. Nisi blanditiis error. Qui repellat iste et aut neque fugit delectus dignissimos.\nNeque praesentium ipsum maiores soluta doloremque dolor alias blanditiis. Earum ex tempora. A delectus iusto cum natus laboriosam. Molestiae sapiente est quo libero.\nOfficiis reprehenderit tempora. Ipsa omnis corrupti nulla earum ratione tempora. Dolorem beatae recusandae officiis ipsam.",
@@ -187,7 +187,7 @@ const cityData = [
   },
   {
     city: "Hemet",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-16.jpg",
     about: "Perferendis esse ad.",
     history:
       "Cupiditate quae modi corrupti debitis aliquid. Pariatur tempore cum natus laudantium ducimus voluptate doloremque. Dignissimos officiis aliquid nostrum corrupti doloribus numquam beatae dolor provident.\nSunt animi aperiam eveniet optio ab enim reiciendis labore. Veritatis dicta sequi beatae aut aliquam sit vitae in. Qui occaecati cum.\nDolore minima necessitatibus beatae. Similique possimus id illo. Commodi ipsa ex veritatis laudantium architecto repellendus. Consequatur laudantium iste ad perspiciatis.",
@@ -199,7 +199,7 @@ const cityData = [
   },
   {
     city: "Chattanooga",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-17.jpg",
     about: "Aperiam a aspernatur harum.",
     history:
       "Occaecati hic molestias debitis facilis. Culpa reprehenderit laudantium. Quos minus sit vero explicabo veritatis.\nAlias molestias earum non ipsa incidunt. Minus ut eos possimus eveniet deleniti quasi ipsum occaecati odit. Quos nulla voluptatibus ad aut numquam saepe. Sunt iusto ipsum tempore porro. Ipsum quisquam quibusdam sequi aut voluptatibus et quis dolorem. Porro ut eaque.\nFacere at dolore nulla rem iure in fugit. Doloremque repellat ut illo quibusdam accusamus. Tenetur molestias aliquid explicabo ratione dolorum itaque quisquam. Molestiae quisquam provident.",
@@ -211,7 +211,7 @@ const cityData = [
   },
   {
     city: "Reston",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-18.jpg",
     about: "Distinctio voluptatum pariatur nobis architecto rerum distinctio.",
     history:
       "Omnis harum nemo nemo voluptatum. Laboriosam vel doloribus quod illum. Voluptate animi at sit voluptatem minus voluptatibus.\nNobis quisquam pariatur ipsam exercitationem tenetur enim placeat quisquam. Pariatur quos architecto maiores veniam. Consequatur provident dolore vitae. Nostrum veritatis numquam quas sed dolor exercitationem. Illum aspernatur laborum.\nVeniam eaque dolorem molestiae corporis iste. Aut amet nostrum harum velit nam sapiente maiores. Similique itaque optio autem aliquid corrupti. Exercitationem distinctio totam similique animi eveniet consequatur dolores.",
@@ -223,7 +223,7 @@ const cityData = [
   },
   {
     city: "Dothan",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-19.jpg",
     about: "Optio ut natus vitae fugiat quia excepturi et.",
     history:
       "Voluptatum quasi facere veniam eaque. Architecto facilis quod quae explicabo dolore optio quo. Nemo id quidem distinctio ea quibusdam laudantium delectus praesentium. Impedit id sapiente provident rem maiores. Voluptatum excepturi pariatur dicta odio possimus. Voluptatem temporibus nesciunt nemo.\nVoluptatem iusto itaque deserunt veniam at nihil alias alias. Excepturi fuga voluptate at occaecati. Maiores impedit voluptas placeat nulla fuga possimus. Animi at voluptatum exercitationem dolorem. Veritatis cupiditate ipsum dolorem. Ipsam pariatur aliquam itaque.\nPlaceat quam saepe excepturi ipsam. Cupiditate aliquam voluptas perferendis voluptatibus a totam blanditiis laboriosam. Dolore ex esse adipisci fugiat facere. Consectetur eaque placeat. Perspiciatis enim ut. Libero eligendi quas laudantium error nam maxime numquam.",
@@ -235,7 +235,7 @@ const cityData = [
   },
   {
     city: "North Little Rock",
-    img: "https://loremflickr.com/640/480/city",
+    img: "./images/city-20.jpg",
     about: "Illum mollitia modi.",
     history:
       "Est voluptatibus omnis possimus tempora quia repellat alias. Earum odit soluta illum sint amet. Perspiciatis magni provident inventore laudantium molestias. Enim ipsum exercitationem illo reiciendis sequi.\nDebitis praesentium dolor. Veritatis possimus odit quas nam tempore commodi. Accusantium aperiam inventore harum neque nisi velit. Placeat nobis ea tempore illum voluptatibus qui molestiae tempora aliquid.\nExcepturi in unde illum perspiciatis. Quae aliquam molestiae quo assumenda quo. Quaerat expedita illum ipsum aliquid suscipit iste ratione ut.",
