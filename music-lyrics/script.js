@@ -6,5 +6,5 @@ const modalFooter = document.querySelector(".modal-footer");
 // ------------ Bootstrap Modal ------------
 
 // To show and hide Bootstrap Modal
-// myModal.show();
+myModal.show();
 // myModal.hide()
