@@ -3,7 +3,7 @@
 ## Main API endpoint
 
 ```js
-const apiUrl1 = "https://api.lyrics.ovh";
+const apiUrl = "https://api.lyrics.ovh";
 ```
 
 ## GET Songs (search query text can be either Artist name or Song name)
@@ -11,15 +11,23 @@ const apiUrl1 = "https://api.lyrics.ovh";
 ### By Artist name
 
 ```js
-const queryText1 = "Eminem";
-const apiUrl2 = `${apiUrl1}/suggest/${queryText1}`;
+const artistName = "Eminem";
+const apiUrl = `${apiUrl}/suggest/${artistName}`;
 ```
 
 ### By Song name
 
 ```js
-const queryText2 = "tell me you love me";
-const apiUrl3 = `${apiUrl1}/suggest/${queryText2}`;
+const songTitle = "tell me you love me";
+const apiUrl = `${apiUrl}/suggest/${songTitle}`;
+```
+
+## GET Lyrics (we need artistName and songTitle for this)
+
+```js
+const artistName = "Eminem";
+const songTitle = "tell me you love me";
+const apiUrl = `${apiUrl}/v1/${artistName}/${songTitle}`;
 ```
 
 ### Displaying Song Lyrics in Modal
